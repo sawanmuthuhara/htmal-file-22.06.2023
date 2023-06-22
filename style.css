@@ -14,10 +14,12 @@ ul{
 }
 h1{
     font-family: monospace;
-    border: 3px;
+    border: 3px solid black;
     color: blueviolet;
+    margin: 3px;
 }
 h2{
     font-family: monospace;
+    padding: 3px;
 }
 }
